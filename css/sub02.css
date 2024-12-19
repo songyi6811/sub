@@ -1,0 +1,14 @@
+@charset "utf-8";
+@import url('../css/rest.css');
+@import url('../css/common.css');
+
+.sub_visual{
+    height: 1146px;
+    margin: 50px 0;
+    text-align: center;
+}
+.sub_visual img{
+    width: 649px;
+    height: 100%;
+    object-fit: cover;
+}
